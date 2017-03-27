@@ -1,19 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1490376644, 
-      "filename": "HexagonROM-kenzo-V2.3-hex-7.1-OFFICIAL-20170324.zip", 
+      "datetime": 1490433682, 
+      "filename": "HexagonROM-V2.3-20170324-OFFICIAL-kenzo.zip", 
       "id": "a14c2dd5dd7b235fd11c64f85c040deb", 
       "romtype": "official", 
       "url": "http://tx2.androidfilehost.com/dl/Bd-nb_8HWQ8UZxY0fAZEWQ/1490638097/673368273298942267/HexagonROM-kenzo-V2.3-hex-7.1-OFFICIAL-20170324.zip",
-      "version": "2.3"
-    },
-    {
-      "datetime": 1489907211, 
-      "filename": "HexagonROM-kenzo-V2.3-hex-7.1-OFFICIAL-20170319.zip", 
-      "id": "365653890e6066f3f7d8ad2e4667463f", 
-      "romtype": "official", 
-      "url": "https://onedrive.live.com/download?cid=5274E94C7E68F815&resid=5274E94C7E68F815%213165&authkey=AL5H8HKGEkfmJag",
       "version": "2.3"
     }
   ]
