@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1490433682, 
-      "filename": "HexagonROM-V2.3-20170324-OFFICIAL-kenzo.zip", 
-      "id": "a14c2dd5dd7b235fd11c64f85c040deb", 
+      "datetime": 1491646633, 
+      "filename": "HexagonROM-V2.3-20170408-OFFICIAL-kenzo.zip", 
+      "id": "8e56a11acf4ae647d401dee9bdd5ac9a", 
       "romtype": "official", 
-      "url": "http://tx2.androidfilehost.com/dl/Bd-nb_8HWQ8UZxY0fAZEWQ/1490638097/673368273298942267/HexagonROM-kenzo-V2.3-hex-7.1-OFFICIAL-20170324.zip",
+      "url": "https://github.com/HexagonRom/android_device_xiaomi_kenzo/releases/download/Hex-v2.3/HexagonROM-V2.3-20170408-OFFICIAL-kenzo.zip",
       "version": "2.3"
     }
   ]
