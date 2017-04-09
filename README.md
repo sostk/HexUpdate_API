@@ -28,14 +28,18 @@ Create file name codename-your-device.json and add this:
       
  # See for name:
  After you finish compiling a build, before uploading, you need to type this into your terminal:
+ 
        date +%s
  
  It will generate a number, it is used in your "json" file in the local datetime.
  
  # See
- datetime = number generate
- filename = Name file zip rom
- id = MD5sum
- url = Direct link for download
+      datetime = number generate
+ 
+      filename = Name file zip rom
+ 
+      id = MD5sum
+ 
+      url = Direct link for download
  
  Create this in pull request if you have no rights in the organization, and soon we will merge it.
